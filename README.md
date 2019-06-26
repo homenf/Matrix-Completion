@@ -1,1 +1,1 @@
-# matrix-completion-in-matlab
+# matrix completion in matlab
